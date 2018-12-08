@@ -1,3 +1,8 @@
 <script>
-window.alert('hello')
+function myFunction() {
+    alert("Hello! I am an alert box!");
+}
 </script>
+
+</body>
+</html>

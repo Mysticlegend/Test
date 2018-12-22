@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>LegendaryC10</title>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="LegendaryC10 &raquo; Feed" href="https://legendaryc10.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LegendaryC10 &raquo; Comments Feed" href="https://legendaryc10.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1532082729h&ver=5.0.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydU9tuwyAM/aF5aL1Je5j2LUDcxA03YdKsfz8n6bqu7ZC2F+QD5/hgY9SYwMZQMBTlB0huaCmwGpONHtiTw9MNerbMT+qxjAfDNlMqFAXto3NxrPG7eMQMZjDGoajLyeGFTsG6oZFt2VCN5o4kAT97CveUA6si572JH5eg5uuon1RYkrY9zOgXX+KijIszy2SdT+dbXl/jgYFuhABG53PvLngRkQqxzPVcglo2GzPKvk+6TAyPDWl06IVWk/m0+1JNYSe1Vm2WqxqTMjKDrJ4GD6UTo6quxYB5qeZheKddUqo0GEWhwYSyhAKCHXEnE7G6mYU/CKdXmx/sX7by+Is1zM2odouaFgsrHOQ09oTg9KgK+uR0uZvmSgKOlrSDpWvXoN7zCFKlnn7aDwB7pynXpDJxeDWhcFzV2Bmlm62E7dzab1gTlciQMcVcYB+zv8WT9N2/vWw369fterfeHD4BJwe08A==?cssminify=yes' type='text/css' media='all' />
+<style id='wpcom-admin-bar-inline-css' type='text/css'>
+
+			.admin-bar {
+				position: inherit !important;
+				top: auto !important;
+			}
+			.admin-bar .goog-te-banner-frame {
+				top: 32px !important
+			}
+			@media screen and (max-width: 782px) {
+				.admin-bar .goog-te-banner-frame {
+					top: 46px !important;
+				}
+			}
+			@media screen and (max-width: 480px) {
+				.admin-bar .goog-te-banner-frame {
+					position: absolute;
+				}
+			}
+		
+</style>
+<style id='independent-publisher-2-style-inline-css' type='text/css'>
+.published-on, .post-permalink, .site-posted-on, .cat-links, .post-tags, .tags-links, .byline, .comments-link { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
+</style>
+<link rel='stylesheet' id='print-css-1-1' href='https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx1jEEOgzAMwD5ECYxRcUG8pZSIFjUpagL7/uCyHabdLMsyvHbjMyuyAh1mT8caWcAtFNnMrgA5USwXmXxiKXFB+brai1TwZ+E1Zr4XH/rJNSBdv/CENeXZpTuYaGz7zjbDw3bD9gYYZDqz?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJx9kFEKwjAMQC9kVycT9yOeZavZyGyb2qQbenr7MRFHFQIh5JHkRS9BoTc2XYH1lOOeID7WVE280/8A5XCMnUDl0L9hQ17Ai3ZJBZtG9Kw59WwiBkHK1UDW0rLF8+hALA6YuxEKXUc9WlCJIWbAS75qoAL3bYB+Rigt24iChM7cVATGJ5S8OXwUfz9spS7uXDft6dDWx2Y/vQBJS4U5'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://legendaryc10.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/9Prdf' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="LegendaryC10" />
+<meta property="og:url" content="https://legendaryc10.wordpress.com/" />
+<meta property="og:site_name" content="LegendaryC10" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s2.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://legendaryc10.wordpress.com/osd.xml" title="LegendaryC10" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="LegendaryC10" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage LegendaryC10." /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/legendaryc10.wordpress.com;icon-uri=https://s2.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://legendaryc10.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s2.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://legendaryc10.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://legendaryc10.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico" /><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	
+	<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<body class="home blog logged-in admin-bar no-customize-support wp-embed-responsive mp6 customizer-styles-applied date-hidden categories-hidden tags-hidden author-hidden comment-hidden highlander-enabled highlander-light">
+
+<div id="page" class="hfeed site">
+	
+	</div>
+
+				<nav id="site-navigation" class="main-navigation" role="navigation">
+			</nav><!-- .main-navigation -->
+	
+	
+	
+	
+		
+			
+						
+				
+<article id="post-25" class="post-25 post type-post status-publish format-standard hentry category-uncategorized">
+		
+	<div class="entry-content">
+		
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		
+				<div class="entry-meta">
+			<span class="byline">
+							</span>
+							<span class="cat-links">
+					<a href="https://legendaryc10.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>				</span><!-- .cat-links -->
+			
+			
+
+		</div>	<!-- .entry-meta -->
+		</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-17" class="post-17 post type-post status-publish format-standard hentry category-uncategorized">
+			<header class="entry-header">
+			<h1 class="entry-title"><a href="https://legendaryc10.wordpress.com/2018/12/21/legendaryc10-contact-form/" rel="bookmark">LegendaryC10 | Contact&nbsp;Form</a></h1>		</header><!-- .entry-header -->	
+	<div class="entry-content">
+		<div id='contact-form-17'>
+<form action='https://legendaryc10.wordpress.com/2018/12/21/legendaryc10-contact-form/#contact-form-17' method='post' class='contact-form commentsblock'>
+
+<div class='grunion-field-wrap grunion-field-name-wrap'  >
+<label 
+				for='g17-name' 
+				class='grunion-field-label name'
+				>Name<span>(required)</span></label>
+<input 
+					type='text' 
+					name='g17-name' 
+					id='g17-name' 
+					value='legendaryc10' 
+					class='name'  
+					required aria-required='true' 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-name-wrap'  >
+<label 
+				for='g17-fullname' 
+				class='grunion-field-label name'
+				>Full Name<span>(required)</span></label>
+<input 
+					type='text' 
+					name='g17-fullname' 
+					id='g17-fullname' 
+					value='legendaryc10' 
+					class='name'  
+					required aria-required='true' 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-email-wrap'  >
+<label 
+				for='g17-youremail' 
+				class='grunion-field-label email'
+				>Your Email<span>(required)</span></label>
+<input 
+					type='email' 
+					name='g17-youremail' 
+					id='g17-youremail' 
+					value='legendarycharles100@gmail.com' 
+					class='email'  
+					required aria-required='true' 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-select-wrap'  >
+<label 
+				for='g17-age' 
+				class='grunion-field-label select'
+				>Age<span>(required)</span></label>
+	<select name='g17-age' id='g17-age' class='select' required aria-required='true'>
+		<option value='5'>5</option>
+		<option value='6'>6</option>
+		<option value='7'>7</option>
+		<option value='8'>8</option>
+		<option value='9'>9</option>
+		<option value='10'>10</option>
+		<option value='11'>11</option>
+		<option value='12'>12</option>
+		<option value='13'>13</option>
+		<option value='14'>14</option>
+		<option value='15'>15</option>
+		<option value='16'>16</option>
+		<option value='17'>17</option>
+		<option value='18'>18</option>
+		<option value='19'>19</option>
+		<option value='20'>20</option>
+		<option value='21'>21</option>
+		<option value='22'>22</option>
+		<option value='23'>23</option>
+		<option value='24'>24</option>
+		<option value='25'>25</option>
+		<option value='26'>26</option>
+		<option value='27'>27</option>
+		<option value='28'>28</option>
+		<option value='29'>29</option>
+		<option value='30'>30</option>
+		<option value='31'>31</option>
+		<option value='32'>32</option>
+		<option value='33'>33</option>
+		<option value='34'>34</option>
+		<option value='35'>35</option>
+		<option value='36'>36</option>
+		<option value='37'>37</option>
+		<option value='38'>38</option>
+		<option value='39'>39</option>
+		<option value='40'>40</option>
+		<option value='41'>41</option>
+		<option value='42'>42</option>
+		<option value='43'>43</option>
+		<option value='44'>44</option>
+		<option value='45'>45</option>
+		<option value='46'>46</option>
+		<option value='47'>47</option>
+		<option value='48'>48</option>
+		<option value='49'>49</option>
+		<option value='50'>50</option>
+		<option value='51'>51</option>
+		<option value='52'>52</option>
+		<option value='53'>53</option>
+		<option value='54'>54</option>
+		<option value='55'>55</option>
+		<option value='56'>56</option>
+		<option value='57'>57</option>
+		<option value='58'>58</option>
+		<option value='59'>59</option>
+		<option value='60'>60</option>
+		<option value='61'>61</option>
+		<option value='62'>62</option>
+		<option value='63'>63</option>
+		<option value='64'>64</option>
+		<option value='65'>65</option>
+		<option value='66'>66</option>
+		<option value='67'>67</option>
+		<option value='68'>68</option>
+		<option value='69'>69</option>
+		<option value='70'>70</option>
+		<option value='71'>71</option>
+		<option value='72'>72</option>
+		<option value='73'>73</option>
+		<option value='74'>74</option>
+		<option value='75'>75</option>
+		<option value='76'>76</option>
+		<option value='77'>77</option>
+		<option value='78'>78</option>
+		<option value='79'>79</option>
+		<option value='80'>80</option>
+		<option value='81'>81</option>
+		<option value='82'>82</option>
+		<option value='83'>83</option>
+		<option value='84'>84</option>
+		<option value='85'>85</option>
+		<option value='86'>86</option>
+		<option value='87'>87</option>
+		<option value='88'>88</option>
+		<option value='89'>89</option>
+		<option value='90'>90</option>
+		<option value='91'>91</option>
+		<option value='92'>92</option>
+		<option value='93'>93</option>
+		<option value='94'>94</option>
+		<option value='95'>95</option>
+		<option value='96'>96</option>
+		<option value='97'>97</option>
+		<option value='98'>98</option>
+		<option value='99'>99</option>
+		<option value='100'>100</option>
+		<option value='More 100'>More 100</option>
+	</select>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-textarea-wrap'  >
+<label 
+				for='contact-form-comment-g17-yourissueorproblem' 
+				class='grunion-field-label textarea'
+				>Your issue or Problem<span>(required)</span></label>
+<textarea
+		                name='g17-yourissueorproblem' 
+		                id='contact-form-comment-g17-yourissueorproblem' 
+		                rows='20' class='textarea'  required aria-required='true'></textarea>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-text-wrap'  >
+<label 
+				for='g17-youropiniontofixissueorproblem' 
+				class='grunion-field-label text'
+				>Your Opinion to fix Issue or Problem<span>(required)</span></label>
+<input 
+					type='text' 
+					name='g17-youropiniontofixissueorproblem' 
+					id='g17-youropiniontofixissueorproblem' 
+					value='' 
+					class='text'  
+					required aria-required='true' 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-select-wrap'  >
+<label 
+				for='g17-howlongtimeshouldwefixit' 
+				class='grunion-field-label select'
+				>How long time should we fix it?<span>(required)</span></label>
+	<select name='g17-howlongtimeshouldwefixit' id='g17-howlongtimeshouldwefixit' class='select' required aria-required='true'>
+		<option value='Immediately'>Immediately</option>
+		<option value='1 hour'>1 hour</option>
+		<option value='2 hours'>2 hours</option>
+		<option value='4 hours'>4 hours</option>
+		<option value='6 hours'>6 hours</option>
+		<option value='8 hours'>8 hours</option>
+		<option value='12 hours'>12 hours</option>
+		<option value='16 hours'>16 hours</option>
+		<option value='20 hours'>20 hours</option>
+		<option value='24 hours'>24 hours</option>
+		<option value='2 days'>2 days</option>
+		<option value='3 days'>3 days</option>
+		<option value='4 days'>4 days</option>
+		<option value='5 days'>5 days</option>
+		<option value='6 days'>6 days</option>
+		<option value='7 days'>7 days</option>
+		<option value='2 weeks'>2 weeks</option>
+		<option value='3 weeks'>3 weeks</option>
+		<option value='4 weeks'>4 weeks</option>
+		<option value='1 month'>1 month</option>
+		<option value='2 months'>2 months</option>
+		<option value='3 months'>3 months</option>
+		<option value='4 months'>4 months</option>
+		<option value='5 months'>5 months</option>
+		<option value='6 months'>6 months</option>
+		<option value='7 months'>7 months</option>
+		<option value='8 months'>8 months</option>
+		<option value='9 months'>9 months</option>
+		<option value='10 months'>10 months</option>
+		<option value='11 months'>11 months</option>
+		<option value='12 months'>12 months</option>
+		<option value='More than 1 year'>More than 1 year</option>
+		<option value='(Specifies Time)'>(Specifies Time)</option>
+	</select>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-text-wrap'  >
+<label 
+				for='g17-specifiestimeifhave' 
+				class='grunion-field-label text'
+				>Specifies Time (* If have *)</label>
+<input 
+					type='text' 
+					name='g17-specifiestimeifhave' 
+					id='g17-specifiestimeifhave' 
+					value='' 
+					class='text'  
+					 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-radio-wrap'  >
+<label 
+				for='g17-gender' 
+				class='grunion-field-label'
+				>Gender<span>(required)</span></label>
+		<label class='grunion-radio-label radio'><input 
+									type='radio' 
+									name='g17-gender' 
+									value='Man' class='radio'  required aria-required='true'/> Man</label>
+		<div class='clear-form'></div>
+		<label class='grunion-radio-label radio'><input 
+									type='radio' 
+									name='g17-gender' 
+									value='Lady' class='radio'  required aria-required='true'/> Lady</label>
+		<div class='clear-form'></div>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-text-wrap'  >
+<label 
+				for='g17-numberphoneifhave' 
+				class='grunion-field-label text'
+				>Number Phone ( *If Have* )</label>
+<input 
+					type='text' 
+					name='g17-numberphoneifhave' 
+					id='g17-numberphoneifhave' 
+					value='' 
+					class='text'  
+					 
+				/>
+	</div>
+
+<div class='grunion-field-wrap grunion-field-text-wrap'  >
+<label 
+				for='g17-anysuggests' 
+				class='grunion-field-label text'
+				>Any suggests?<span>(required)</span></label>
+<input 
+					type='text' 
+					name='g17-anysuggests' 
+					id='g17-anysuggests' 
+					value='' 
+					class='text'  
+					required aria-required='true' 
+				/>
+	</div>
+	<p class='contact-submit'>
+		<input type='submit' value='Submit' class='pushbutton-wide'/>
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="9b85780b67" /><input type="hidden" name="_wp_http_referer" value="/" />
+		<input type='hidden' name='contact-form-id' value='17' />
+		<input type='hidden' name='action' value='grunion-contact-form' />
+		<input type='hidden' name='contact-form-hash' value='c98ce72ea8a596984b4838d8d1c2721740fae986' />
+	</p>
+</form>
+</div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		
+				<div class="entry-meta">
+			<span class="byline">
+				<a href="https://legendaryc10.wordpress.com/author/legendaryc10/" title="Posts by legendaryc10" rel="author">legendaryc10</a>			</span>
+							<span class="cat-links">
+					<a href="https://legendaryc10.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a>				</span><!-- .cat-links -->
+			
+			<!-- .comments-link -->
+			<span class="published-on">
+									<a href="https://legendaryc10.wordpress.com/2018/12/21/legendaryc10-contact-form/" rel="bookmark"><time class="entry-date published updated" datetime="2018-12-21T06:08:50+00:00">Dec 21, 2018</time></a>
+							</span>
+
+			 <span class="screen-reader-text">"LegendaryC10 | Contact&nbsp;Form"</span>	</div><!-- .entry-meta -->
+		</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+		</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+						<div class="site-info">
+				LegendaryC10
+				
+							</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #content-wrapper -->
+</div><!-- #page -->
+
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/en-gb.wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/en-gb.wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/legendaryc10.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 145246361				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201851y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"5f70e36b970a983debeabfd560b95260"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/legendaryc10.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/legendaryc10.wordpress.com\/wp-login.php?action=logout&_wpnonce=56365dccd4","homeURL":"https:\/\/legendaryc10.wordpress.com\/","postID":"25","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customise it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"1","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1521806916j'></script>
+<div class="widget widget_eu_cookie_law_widget"><div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Close and accept" class="accept" />
+
+		Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br />
+To find out more, including how to control cookies, see here:
+		<a href="https://automattic.com/cookies" >
+			Cookie Policy		</a>
+ </form>
+</div>
+</div><link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/grunion-contact-form/css/grunion.css?m=1543262469h&cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s2.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"desktop\/2.4.0-13279-g67a63e0","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":null,"current_url":"https:\/\/legendaryc10.wordpress.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"145246361","siteName":"LegendaryC10","siteURL":"http:\/\/legendaryc10.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/independent-publisher-2","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/legendaryc10.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Flegendaryc10.wordpress.com%2F2018%2F12%2F22%2F25%2F","themeURL":"https:\/\/wordpress.com\/theme\/independent-publisher-2\/","xhrURL":"https:\/\/legendaryc10.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"d7c1f2b64e","isSingular":"","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"c66aeba75c\" \/>","referer":"https:\/\/legendaryc10.wordpress.com\/","canFollow":"1","feedID":"81500576","statusMessage":"","customizeLink":"https:\/\/legendaryc10.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Flegendaryc10.wordpress.com%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customise","report":"Report this content","themeInfo":"Get help setting up your theme","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/legendaryc10.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Flegendaryc10.wordpress.com%2F2018%2F12%2F22%2F25%2F\">Log in now.<\/a>","stats":"Statistics"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydUttOwzAM/SGyMMYEL4hvSVNv9ZobsdPu83EmrUxrqQYvaZJzcXpsPSZlY2AIrE+kWxjQQjpvTvSkBcJgXWmBKsYd2r6J52lzJV31vqjkyhEDaYe9iL4KFOhMaB3kJUfTegyqMXkj3xW3iSe4jV796O403IEX61QajaGFBLIEVnJ2SB1k9VLLBjPg0TDGWc3H9L9A/zOjHpNyGHp1iLaQOuAs1weMJFVNNmNidYloJcwR2yMwaSiCxh5BOTNqBp+cYbi7X+pakfKZbMxw27ZbRmPqfARYaqvAvhAb28HKI0OsT7msAnsfgxpmAc/401yskzmSypBiZsk8+/vzQ4PoDTHkWioOkDPWP5/u/ujAWfKiNZGtw1pF007Yn/5ju3/d7ndvu/fn0zdtz2mt'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 137719067, 'legendaryc10']);
+_tkq.push(['storeContext', {'blog_id':'145246361','blog_tz':'0','user_lang':'en-gb','blog_lang':'en-gb'}]);
+_stq.push(['view', {'blog':'145246361','v':'wpcom','tz':'0','user':'1','user_id':'137719067','subd':'legendaryc10'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TcUpqcF9NWi1bMDJfLy90VXNvY2U3ZFZ1RWlDZ2dfWmwuT1t4eV9hYytfOW9YQm9ZeFh3Sis2P3JLcy5hdXU/L3R+WER8JS8uczUsOXYuQkNLb0dxSFROaCxQZ1gtYW1fVmk2MlhuL0ZlSUdZYkhYb2xEJStUTUEleFc3N29rWUFsUnpoW3JkbkczUUZpQnErY0o5THBaMzhsWms4a1pfZXJLSE85OWh6Nnc1NnNLW1ZuZ2VbNUFqcHdPYWV6JUs4Wjc5c1pNOWx8TSUvXVVXMFdMLHk2NGpUK0l+SWU5VnFTRGl3UCxhYkRNeE5jc2xkMDFLbFVIYw=='}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites mb-trackable"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/stats/legendaryc10.wordpress.com">My Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-info" class="current-site"><a class="ab-item"  href="https://legendaryc10.wordpress.com/"><div class="ab-site-icon"></div><span class="ab-site-title">LegendaryC10</span><span class="ab-site-description">legendaryc10.wordpress.com</span></a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/stats/legendaryc10.wordpress.com">Statistics <img style="width: 95px; margin: 0; float: right;" src="https://legendaryc10.wordpress.com/wp-includes/charts/admin-bar-hours-scale-2x.php?masterbar=1" alt="Statistics" title="Showing site views per hour for the last 48 hours. Click for full Site Stats." /></a>		</li>
+		<li id="wp-admin-bar-activity" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/activity-log/legendaryc10.wordpress.com">Activity</a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/plans/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Manage</div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/pages/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-page">Site Pages</a><a href="https://wordpress.com/page/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-page-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/posts/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-post-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-attachment" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/media/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-attachment">Media</a><a href="https://wordpress.com/media/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-attachment-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-comments" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/comments/legendaryc10.wordpress.com">Comments</a>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Personalise</div>		</li>
+		<li id="wp-admin-bar-themes" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://legendaryc10.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Flegendaryc10.wordpress.com%2F" class="ab-item ab-primary mb-icon" id="wp-admin-bar-cmz">Customise</a><a href="https://wordpress.com/themes/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-themes">Themes</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/sharing/legendaryc10.wordpress.com">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/people/team/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://wordpress.com/people/new/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-plugins"><a class="ab-item"  href="https://wordpress.com/plugins/wpcom-masterbar-redirect/legendaryc10.wordpress.com">Plugins</a>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/domains/legendaryc10.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/legendaryc10.wordpress.com" class="ab-secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/settings/general/legendaryc10.wordpress.com">Settings</a>		</li>
+		<li id="wp-admin-bar-new-site"><a class="ab-item"  href="https://wordpress.com/start/en-gb?ref=admin-bar-logged-in">+ Add New WordPress</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop mb-trackable"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/" class="ab-item ab-primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="ab-secondary" id="wp-admin-bar-reader-followed-sites-manage">Manage</a></div>		</li>
+		<li id="wp-admin-bar-conversations" class="mb-icon"><a class="ab-item"  href="http://wordpress.com/read/conversations">Conversations</a>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-search" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/read/search">Search</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en-gb" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar mb-trackable"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/me/"><img alt='' src='https://2.gravatar.com/avatar/5f70e36b970a983debeabfd560b95260?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt='' src='https://2.gravatar.com/avatar/5f70e36b970a983debeabfd560b95260?s=128&#038;d=mm&#038;r=G' class='avatar avatar-128' height='128' width='128' /><span class="display-name">legendaryc10</span><a class="username" href="http://gravatar.com/legendaryc10">@legendaryc10</a><form action="https://legendaryc10.wordpress.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwordpress.com%2F&amp;_wpnonce=56365dccd4" method="post"><button class="ab-sign-out" type="submit">Sign Out</button></form></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/purchases">Manage Purchases</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon mb-trackable"><a class="ab-item"  href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/post/legendaryc10.wordpress.com"><span>Write</span></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://legendaryc10.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=56365dccd4">Log Out</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

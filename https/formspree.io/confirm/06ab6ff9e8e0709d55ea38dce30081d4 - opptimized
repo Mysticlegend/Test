@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Formspree</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <!-- google optimize and analytics -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function (a, s, y, n, c, h, i, d, e) {
+      s.className += ' ' + y; h.start = 1 * new Date;
+      h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+      (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+    })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+      { 'GTM-KCSJ8DK': true });</script>
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-74724777-1', 'auto');
+    ga('require', 'GTM-KCSJ8DK');
+    ga('send', 'pageview');
+  </script>
+  <!-- end google optimize and analytics -->
+  <link rel="icon" type="image/png" href="https://formspree.io/static/img/favicon.ico">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/v4-shims.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  
+
+
+<!-- Amplitude -->
+<script type="text/javascript">
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript";r.async=true
+  ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
+  ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+  e.amplitude.runQueuedFunctions()}else{
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+
+  amplitude.getInstance().init("afce35c666c571e82893eb3f7c5075f4", "", {
+    // Configuration options. Do not change without consulting legal.
+    includeReferrer: true,
+    includeUtm: true,
+    saveParamsReferrerOncePerSession: false,
+    trackingOptions: {
+      carrier: true, 
+      city: false,
+      country: true,
+      device_model: true,
+      dma: false,
+      ip_address: false,
+      language: true,
+      os_name: true,
+      os_version: true,
+      platform: true,
+      region: false,
+      version_name: true
+    } 
+  });
+</script>
+<script type="text/javascript">
+    amplitude.getInstance().logEvent('Activated', {
+        host: 'test.formspree.io/',
+        testing: 'test.formspree.io/'.match(/(localhost|test)/g) !== null
+    });
+    var identify = new amplitude.Identify().append('a', 'legendarycharles100@gmail.com');
+    amplitude.getInstance().identify(identify);
+</script>
+
+  <link rel="stylesheet" href="https://d1ma8knj6twvg6.cloudfront.net/static/main.min.css?t=1545093757">
+
+  <link rel="preload" href="https://d1ma8knj6twvg6.cloudfront.net/static/img/loading.svg?t=1545093422" as="image">
+
+</head>
+
+<body class="site " id="card">
+  <div class="site-container">
+    <header id="site-header">
+
+      
+
+    </header>
+
+    <div class="site-frame" id="site-frame">
+      
+<div class="container narrow form-status-message">
+
+  
+
+  <div class="row">
+    <div class="col-1-1">
+      
+<h1>Form Activated</h1>
+<p><strong>Woohoo!</strong> This form is now active. The next time someone submits your form, we'll forward it to your
+    email.</p>
+<p class="small">
+    <!--View
+    form settings <a href="">here</a>.-->
+</p>
+
+    </div>
+  </div>
+</div>
+
+
+      
+<div class="container narrow form-status-footer">
+  <div class="v-middle"><span style="font-size: small; margin-right: 5px">Powered by </span>
+    <a href="https://formspree.io">
+      
+    </a>
+    <div style="font-size: small; text-transform: uppercase">
+      LEGENDARYC10
+    </div>
+  </div>
+</div>
+
+    </div>
+
+
+    
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/SlickNav/1.0.3/jquery.slicknav.min.js"></script> -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.1/toastr.min.js"></script>
+    <script>
+      /* turning flask flash messages into js popup notifications */
+      window.popupMessages = []
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
+    <script src="https://d1ma8knj6twvg6.cloudfront.net/static/bundle.min.js?t=1545093755"></script>
+
+  </div>
+</body>
+
+</html>
